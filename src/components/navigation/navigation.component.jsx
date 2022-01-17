@@ -17,8 +17,11 @@ const Navigation = () => (
             <NavgationItemLink to="/shop"> 
                 SELL 
             </NavgationItemLink>
-            <NavgationItemLink to="shop"> 
+            <NavgationItemLink to="signin"> 
                 SIGN IN 
+            </NavgationItemLink>
+            <NavgationItemLink to="signin"> 
+                SIGN UP
             </NavgationItemLink>
         </NavigationItemCollection>
     </NavigationHeader>
